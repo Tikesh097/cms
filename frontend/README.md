@@ -4,6 +4,8 @@ A full-stack web application for managing candidate information during recruitme
 
 ## Features
 
+### deployed url -> https://cmsassignment.netlify.app/
+
 ### Data Management (CRUD Operations)
 - ✅ **Create**: Add new candidate records with essential information
 - ✅ **Read**: View all candidates in a structured table format

@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // Backend API base URL - change this to match your backend server
-const API_BASE_URL = 'http://localhost:5000/api'
+const API_BASE_URL = 'https://cms-ahha.onrender.com/api'
 
 // Create axios instance with default config
 const api = axios.create({

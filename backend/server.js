@@ -13,7 +13,7 @@ const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:5173'
 // Middleware
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://magical-custard-67d1c6.netlify.app'
+  'https://cmsassignment.netlify.app/'
 ]
 
 app.use(cors({
